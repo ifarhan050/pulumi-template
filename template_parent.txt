@@ -1,1 +1,1 @@
-Hi i am template parent file
+Hi i am templates parent file
